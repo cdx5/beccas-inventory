@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"sourcesContent": [
+		"body {\n    background-color: thistle;\n}\n\nheader {\n    border: 1px solid black;\n    padding: 9px 9px 7px 9px;\n    display: inline-block;\n}\n\nheader a:link, header a:visited {\n    color: black;\n    text-decoration: none;\n}\n\nheader a:hover {\n    background-color: olive;\n}\n\nul {\n    padding-left: 1em;\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAC,EACD,gBAAgB,EAAE,OAAO,GAC5B;;AAED,AAAA,MAAM,CAAC,EACH,MAAM,EAAE,eAAe,EACvB,OAAO,EAAE,eAAe,EACxB,OAAO,EAAE,YAAY,GACxB;;AAED,AAAA,MAAM,CAAC,CAAC,AAAA,KAAK,EAAE,MAAM,CAAC,CAAC,AAAA,QAAQ,CAAC,EAC5B,KAAK,EAAE,KAAK,EACZ,eAAe,EAAE,IAAI,GACxB;;AAED,AAAA,MAAM,CAAC,CAAC,AAAA,MAAM,CAAC,EACX,gBAAgB,EAAE,KAAK,GAC1B;;AAED,AAAA,EAAE,CAAC,EACC,YAAY,EAAE,GAAG,GACpB"
+}
